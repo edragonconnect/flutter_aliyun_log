@@ -38,6 +38,8 @@ iOS SDK
 
 在 `pubspec.yaml `中添加 `flutter_aliyun_log` 到 `dependencies`
 
+请使用 `Git依赖` 方式
+
 
 ```
 import 'package:flutter_aliyun_log/flutter_aliyun_log.dart';
